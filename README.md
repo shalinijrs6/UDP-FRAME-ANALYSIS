@@ -175,7 +175,8 @@ UDP frame analysis is an essential skill in network administration, cybersecurit
 
 A systematic analysis of UDP frames enables organizations to improve network performance, strengthen security monitoring, and ensure reliable operation of critical services that depend on UDP communication.
 
-<img width="1000" height="1000" alt="qrcode_359104606_703ab00694db0da6023718e5016125f2" src="https://github.com/user-attachments/assets/81d7e829-87c3-4f0d-abe6-e535fd035a07" />
+
+<img width="205" height="205" alt="image" src="https://github.com/user-attachments/assets/85663d2b-7f26-4a76-a2b1-0f8ad7d32db1" />
 
 
 
